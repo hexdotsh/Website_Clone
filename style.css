@@ -1,0 +1,244 @@
+body{
+  margin: 0; background-color: #FFFFFF;
+  padding: 0;
+}
+.navbar{
+  display: flex; margin-left: 8px;
+}
+.tricky{
+  display: flex; gap: 20px; margin-left: 78px; margin-top: 28.9px;
+}
+.search input[type=text]{
+ border-radius: 8px; font-size: 10px; box-sizing: border-box;
+  padding-top: 11px; 
+ padding-bottom: 11px; 
+ padding-left: 40px;
+ font-size: 15px;
+width: 440px;
+border: 0.6px solid #ccc;
+box-shadow: inset 0 2px 5px -4px #333;
+font-family: barlow;
+
+}
+.search input[type=text]:focus{
+  outline: none;
+  box-shadow: 0 0 2px #333;
+  
+}
+  
+.search input::placeholder{
+  font-family: barlow;
+  color: gray;
+  opacity: 0.5;
+  letter-spacing: 0.4px;
+  font-size: 15px;
+}
+.logo{
+  margin-left: 142px;
+}
+.Account button{
+  border-radius: 5px;
+  background-color: #3F5BD9;
+  box-sizing: border-box;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  color: white;
+  font-family: barlow;
+  font-size: 17.5px;
+  padding-left: 21px;
+  padding-right: 21px;
+  border: none;
+  font-weight: 473;
+  letter-spacing: 0.3px;
+}
+.login button{
+  font-family: barlow;
+  font-size: 17px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  padding: 10px 25px 10px 25px;
+  box-sizing: border-box;
+  border: 1px solid #3F5BD9;
+  color: #3F5BD9;
+  font-weight: 550;
+  letter-spacing: 0.4px;
+}
+.middle_bar ul{
+font-family: barlow;
+font-size: 18px;
+display: flex; gap: 33px;
+margin-left: 111px ;
+list-style-type: none;
+}
+.middle_bar{
+background-color: #E3EBF6;
+height: 53px;
+margin-top: -22px;
+box-shadow: 0px 1px 8px 0px #E3EBF6;
+}
+.middle_bar ul li{
+font-weight: 330;
+padding-top: 14px;
+}
+.left_middle h1{
+  color: #2A394E;
+  font-family: barlow;
+}
+.left_middle p{
+  font-family: barlow;
+  color: #5D6775;
+  font-weight: 100px;
+  font-size: 23.5px;
+}
+.start button{
+  border-radius: 5px;
+  background-color: #3F5BD9;
+  box-sizing: border-box;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  color: white;
+  font-family: barlow;
+  font-size: 17.5px;
+  padding-left: 21px;
+  padding-right: 21px;
+  border: none;
+  font-weight: 473;
+  letter-spacing: 0.3px;
+}
+.mob_no input[type=text]{
+border-radius: 8px; font-size: 10px; box-sizing: border-box;
+ padding-top: 14px; 
+ padding-bottom: 14px; 
+ padding-left: 40px;
+font-size: 15px;
+width: 400px;
+border: 0.8px solid #ccc;
+font-family: barlow;
+}
+.mob_no input::placeholder{
+color: gray;
+opacity: 0.6;
+}
+.charges .oops{
+font-family: barlow;
+}
+.charges .oop {
+  font-family: barlow;
+}
+.charges .oo {
+  font-family: barlow;
+}
+.charges .hah {
+  display: flex; gap: 70px;
+}
+.left_middle{
+  margin-left: 209px;
+}
+.left_middle .bar h1{
+  font-size: 35px;
+}
+.left_middle .bar p{
+margin-top: -12px;
+text-align: left;
+}
+.left_middle .guess{
+  display: flex; gap: 25px; margin-top: 43px;
+}
+.left_middle .hah{
+  text-align: left; margin-top: 25px;
+}
+.left_middle .charges .hah .oops h6 {
+margin-top: -19px;
+font-weight: 300;
+color: #5D6775;
+}
+.left_middle .charges .hah .oops h4{
+  font-size: medium;
+  font-weight:500;
+}
+.left_middle .charges .hah .oop h6 {
+margin-top: -19px;
+font-weight: 300;
+color: #5D6775;  
+}
+.left_middle .charges .hah .oop h4 {
+  font-size: medium;
+  font-weight:500;
+}
+.left_middle .charges .hah .oo h4 {
+  font-size: medium;
+  font-weight:500;
+}
+.left_middle .charges .hah .oo h6 {
+margin-top: -19px;
+font-weight: 300;
+color: #5D6775;  
+}
+.left_middle .new {
+  margin-left: 345px;
+  margin-top: -143px;
+}
+.left_middle .new h6{
+font-family: barlow;
+}
+.left_middle .new h4 {
+  font-family: barlow;
+}
+.left_middle .new .word {
+margin-left: 110px;
+margin-top: -104px;
+}
+.left_middle .new .word h4{
+  margin-top: -21px;
+  color: #2A394E;
+  font-weight: 550;
+}
+.left_middle .new .word .nope {
+  margin-top: -21px;
+}
+.left_middle .new .word .nope h6 {
+font-weight: 450;
+color: #4C5A6F;
+}
+.left_middle .new .word h6 {
+  font-weight: 450;
+  color: #4C5A6F;
+}
+.left_middle .new img{
+border: 0.8px solid #ccc;
+border-radius: 8px;
+padding: 6px;
+width: 85px;
+}
+h6{
+  font-family: barlow;
+  color: #5D6775;
+  font-weight: 300;
+}
+h6 b{
+  font-weight: 450;
+}
+.yes{
+border: 0.8px solid #ccc;
+border-radius: 8px;
+width: 558px;
+height: 388px;
+padding-left: 40px;
+padding-right: 40px;
+margin-top: 50px;
+background-color: #FFFFFF;
+}
+.pic img{
+  width: 400px;
+  margin-top: 70px;
+  margin-left: 40px;
+}
+.left_middle{
+  display: flex;
+}
+.guddu{
+background: #F9FBFE;
+opacity: 0.1px;
+width: 100%;
+height: 677px;
+}
