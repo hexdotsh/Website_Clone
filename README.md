@@ -1,7 +1,7 @@
 # AngelOne Clone
 A simple clone of the AngelOne landing page using only HTML and CSS.
 ## Preview
-https://github.com/hexdotsh/Website_Clone/blob/main/assets/Preview.png
+https://github.com/hexdotsh/Website_Clone/blob/main/assets/Preview.png?raw=true
 ## Features
 - Responsive design
 - Clean HTML structure
