@@ -1,5 +1,16 @@
-# Website_Clone
-Static Websites based on projects like Groww, Angelone, Zerodha, etc.. Using HTML & CSS only.
+# AngelOne Clone
+A simple clone of the AngelOne landing page using only HTML and CSS.
+
+## Preview
+
+
+## Features
+- Responsive design
+- Clean HTML structure
+- Minimal CSS layout
+
+## Live Preview 
+
 
         .--.
        |o_o |
@@ -8,3 +19,4 @@ Static Websites based on projects like Groww, Angelone, Zerodha, etc.. Using HTM
      (|     | )
     /'\_   _/`\
     \___)=(___/
+    === HEX ===
