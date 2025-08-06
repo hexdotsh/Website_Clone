@@ -10,7 +10,7 @@ A simple clone of the AngelOne landing page using only HTML and CSS.
 - Minimal CSS layout
 
 ## Live Preview 
-
+https://hexdotsh.github.io/Website_Clone/
 
         .--.
        |o_o |
